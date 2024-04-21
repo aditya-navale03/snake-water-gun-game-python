@@ -1,1 +1,0 @@
-    elif result == 1:
